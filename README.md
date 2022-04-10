@@ -1,4 +1,4 @@
-# Random Name Picker
+# Taktyl Name Picker
 
 ![LICENSE](https://img.shields.io/github/license/heiswayi/random-name-picker)
 
